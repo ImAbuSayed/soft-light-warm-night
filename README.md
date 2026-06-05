@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-light-warm-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Soft Light Warm Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-light-warm-night/) |
+| **Get License** | [Music Rights & Licensing for Soft Light Warm Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-light-warm-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8e17a88c92dbfaaa4610dd4d59dbef6567cd689be69c05e1bcec4f6c16c640a8` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
