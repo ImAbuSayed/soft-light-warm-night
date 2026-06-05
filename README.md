@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-light-warm-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Soft Light Warm Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-light-warm-night/) |
+| **Get License** | [License this song: Soft Light Warm Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-light-warm-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Just a flicker of a candle painting shadows on your face
+> Got the whole world fading, melting in this quiet place
+> Pull you closer by the fire, let the embers catch the groove
+> I don't need another reason, I just want to watch you move
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
